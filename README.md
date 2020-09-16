@@ -1,7 +1,9 @@
-Heap.js
+Heap.ts
 =======
 
 [![Build Status](https://travis-ci.org/qiao/heap.js.svg?branch=master)](https://travis-ci.org/qiao/heap.js)
+
+WIP: this fork is meant to port the library to Typescript
 
 A binary heap implementation in CoffeeScript/JavaScript. Ported from Python's [heapq](http://docs.python.org/library/heapq.html) module.
 
